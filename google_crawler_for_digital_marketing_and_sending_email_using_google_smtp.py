@@ -21,8 +21,8 @@ questions_list = []
 """Google Custom Search API Credentials"""
 
 # Google Custom Search credentials
-API_KEY = "AIzaSyCT4XUWnxcEJLpsvsq1B4C3bVG6wJM3m0s"
-CX = "93c3cae22240f4053"
+API_KEY = ""
+CX = ""
 
 # Google Search API URL
 google_url = "https://www.googleapis.com/customsearch/v1"
